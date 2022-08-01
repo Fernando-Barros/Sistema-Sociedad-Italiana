@@ -1,0 +1,95 @@
+C:\Users\José Fernando\AppData\Local\Temporary Projects\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.exe
+C:\Users\José Fernando\AppData\Local\Temporary Projects\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.pdb
+C:\Users\José Fernando\AppData\Local\Temporary Projects\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.xml
+C:\Users\José Fernando\AppData\Local\Temporary Projects\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Resources.resources
+C:\Users\José Fernando\AppData\Local\Temporary Projects\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.vbproj.GenerateResource.Cache
+C:\Users\José Fernando\AppData\Local\Temporary Projects\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.exe
+C:\Users\José Fernando\AppData\Local\Temporary Projects\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.xml
+C:\Users\José Fernando\AppData\Local\Temporary Projects\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.pdb
+C:\Users\José Fernando\AppData\Local\Temporary Projects\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Menu.resources
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.exe
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.xml
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.pdb
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.exe
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.pdb
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.xml
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Resources.resources
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.vbproj.GenerateResource.Cache
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.FormPrincipal.resources
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.exe.config
+\\VBOXSVR\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.exe.config
+\\VBOXSVR\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.exe
+\\VBOXSVR\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.xml
+\\VBOXSVR\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.pdb
+\\VBOXSVR\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.exe
+\\VBOXSVR\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.pdb
+\\VBOXSVR\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.xml
+\\VBOXSVR\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.FormPrincipal.resources
+\\VBOXSVR\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Resources.resources
+\\VBOXSVR\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.vbproj.GenerateResource.Cache
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.vbprojResolveAssemblyReference.cache
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.ABMSocios.resources
+\\VBOXSVR\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.ABMSocios.resources
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.provincia.resources
+\\VBOXSVR\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.provincia.resources
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.exe.config
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.exe
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.xml
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.pdb
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.exe
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.pdb
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.xml
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.vbprojResolveAssemblyReference.cache
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.ABMSocios.resources
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.FormPrincipal.resources
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Resources.resources
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.vbproj.GenerateResource.Cache
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.provincia.resources
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.FPais.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.exe.config
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.exe
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.xml
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.pdb
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.exe
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.pdb
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.xml
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.ABMSocios.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.FormPrincipal.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.FPais.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Resources.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.provincia.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.vbproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.prueva.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Localidad.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Imprimir_Socio.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\MySql.Data.dll
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Login.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema2 Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Nuevo_Usuario.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.exe.config
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.exe
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.xml
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.pdb
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.exe
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.pdb
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.xml
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.ABMSocios.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Nuevo_Usuario.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Localidad.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.FormPrincipal.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Imprimir_Socio.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Login.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.FPais.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.prueva.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Resources.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.provincia.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.vbproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.FormSocios.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.vbproj.AssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.vbproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\MySql.Data.dll
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.vbproj.CopyComplete
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.PadreHijo.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.PanelPrincipal.resources
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Calendario.resources

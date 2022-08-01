@@ -1,0 +1,15 @@
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Release\Sistema Sociedad Italiana.exe.config
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Release\Sistema Sociedad Italiana.exe
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Release\Sistema Sociedad Italiana.pdb
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Release\Sistema Sociedad Italiana.xml
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Release\Sistema_Sociedad_Italiana.ABMSocios.resources
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Release\Sistema_Sociedad_Italiana.FormPrincipal.resources
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Release\Sistema_Sociedad_Italiana.Resources.resources
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Release\Sistema Sociedad Italiana.vbproj.GenerateResource.Cache
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Release\Sistema Sociedad Italiana.exe
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Release\Sistema Sociedad Italiana.xml
+C:\Users\José Fernando\Documents\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Release\Sistema Sociedad Italiana.pdb
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Release\Sistema Sociedad Italiana.exe.config
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Release\Sistema Sociedad Italiana.exe
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Release\Sistema Sociedad Italiana.xml
+C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Release\Sistema Sociedad Italiana.pdb
