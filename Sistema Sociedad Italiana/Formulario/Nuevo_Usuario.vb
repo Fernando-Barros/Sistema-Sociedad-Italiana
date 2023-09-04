@@ -46,6 +46,6 @@ Public Class Nuevo_Usuario
             TextBoxUsuariol.Focus()
         End If
 
-       
+
     End Sub
 End Class

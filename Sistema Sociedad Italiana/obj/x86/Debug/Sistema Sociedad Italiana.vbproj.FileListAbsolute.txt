@@ -40,7 +40,6 @@ D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86
 D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.exe
 D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.pdb
 D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\Sistema Sociedad Italiana.xml
-D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.vbprojResolveAssemblyReference.cache
 D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.ABMSocios.resources
 D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.FormPrincipal.resources
 D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Resources.resources
@@ -93,3 +92,16 @@ C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italian
 C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.PadreHijo.resources
 C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.PanelPrincipal.resources
 C:\Users\Fernando\Documents\Visual Studio 2008\Projects\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Calendario.resources
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\bin\Debug\MySql.Data.dll
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.vbproj.AssemblyReference.cache
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.FormSocios.resources
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Nuevo_Usuario.resources
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Localidad.resources
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Imprimir_Socio.resources
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Login.resources
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.Calendario.resources
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.PadreHijo.resources
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.PanelPrincipal.resources
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema_Sociedad_Italiana.prueva.resources
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.vbproj.CoreCompileInputs.cache
+D:\Emborore\Proyecto\Sistema Sociedad Italiana\Sistema Sociedad Italiana\obj\x86\Debug\Sistema Sociedad Italiana.vbproj.CopyComplete
