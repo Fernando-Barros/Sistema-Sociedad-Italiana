@@ -1,7 +1,7 @@
 ﻿Imports MySql.Data.MySqlClient
 Module Module_BD
     Friend conexion As MySqlConnection
-    Sub conectar()
+    Sub Conectar()
         Try
             Dim Cadena As String
             'Cadena=My.Computer.FileSystem.ReadAllText(My.Application.Info.DirectoryPath+"")

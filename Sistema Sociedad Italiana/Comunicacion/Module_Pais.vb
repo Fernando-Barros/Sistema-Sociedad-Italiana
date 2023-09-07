@@ -3,6 +3,7 @@
 Module Module_Pais
     Function Buscar_Nom_Pais(ByVal Tabla As String, ByVal Id_Pais As String) As String
         Dim Nombre_pais As String
+        Nombre_pais = " "
         Try
             Call conectar()
             conexion.Open()
@@ -19,7 +20,7 @@ Module Module_Pais
         Catch ex As Exception
             'MsgBox(ex.Message)
             conexion.Close()
-            Nombre_pais = " "
+            'Nombre_pais = " "
         End Try
         Return Nombre_pais
     End Function

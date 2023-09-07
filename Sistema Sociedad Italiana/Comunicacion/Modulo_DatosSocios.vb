@@ -39,10 +39,11 @@ Module Modulo_DatosSocios
     End Sub
 
     '+++++++++++++++++++++++++++BUSCA A LOS PADRINOS+++++++++++++++++++++++++++++++++++++++++++++++++++
-    Function padrino(ByVal Tabla As String, ByVal Id_Padrino As String) As String
+    Function Padrino(ByVal Tabla As String, ByVal Id_Padrino As String) As String
         Dim Nombre_Padrino As String
+        Nombre_Padrino = " "
         Try
-            Call conectar()
+            Call Conectar()
             conexion.Open()
             Dim Comando As New MySqlCommand
             Comando.Connection = conexion

@@ -30,14 +30,19 @@ Public Class Login
     End Sub
 
     Private Sub Login_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Call conectar()
-        conexion.Open()
-        If conexion.State = ConnectionState.Closed Then
-            MsgBox("No conecto")
-            MsgBox(ex.Message, , "Error de la Base de Dato")
-            conexion.Close()
-            Me.Close()
-        End If
+        Try
+            Call conectar()
+            conexion.Open()
+        Catch ex As Exception
+            If conexion.State = ConnectionState.Closed Then
+                MsgBox("No conecto")
+                MsgBox(ex.Message, , "Error de la Base de Dato")
+                conexion.Close()
+                Me.Close()
+            End If
+        End Try
+
+
         conexion.Close()
         LinkLabel_NU.Visible = False
     End Sub
